@@ -1,0 +1,13 @@
+body {
+    display:grid;
+    min-height: 100vh;
+    place-items: center;
+    font-size: 3rem;
+}
+
+button {
+    all: unset;
+    display: inline;
+    padding: .5em 1.25em;
+    background: steelblue;
+}
